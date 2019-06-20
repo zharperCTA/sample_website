@@ -4,5 +4,13 @@
 }
 .nav-menu {
         text-align: right;
+	text-decoration: none;
 }
 
+.image-link {
+	text-decoration: none;
+
+.header-style {
+	text-align: center;
+	margin: 0 0 80px;
+}
